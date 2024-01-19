@@ -1,0 +1,9 @@
+.box {
+    background-color: unset !important;
+    border-radius: unset !important;
+    box-shadow: unset !important;
+}
+
+html, body {
+    height: 100%;
+}
